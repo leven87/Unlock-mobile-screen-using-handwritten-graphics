@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen Unlock!</string>
+    <string name="page_title_1">Register Handwritten Graphics</string>
+    <string name="page_title_2">Train Handwritten Graphics</string>
+    <string name="page_title_3">Verify Handwritten Graphics</string>
+</resources>
