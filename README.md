@@ -2,4 +2,4 @@
 This is my master's thesis project. It proposes a scheme of unlocking the mobile phone screen using handwritten graphics (signature), including a mobile app and several experiments (datasets and codes).
 
 * Screenlock - the unlock scheme application on Android
-* Verification -  experimental code and dataset
+* Experiments -  experimental code and dataset
