@@ -1,7 +1,7 @@
-#The code for experiments
+# The code for experiments
 
 - **code**.  A folder where backup codes are stored. Some of them were used for testing, but they were not adopted in the final version.
-- **dataset**. The datasets used in the experiments£º SUSIG, MOBISIG, SCD.
+- **dataset**. The datasets used in the experimentsÂ£Âº SUSIG, MOBISIG, SCD.
 - **output**. The dataset used by the program and outputs when predicting the forgery difficulty level.
 - **reference**. Some references code for coding.
 - **toolbox_02450**. Contains some machine learning functions.
